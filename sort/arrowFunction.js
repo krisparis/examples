@@ -1,3 +1,5 @@
+// Important: This code cannot run on Internet Explorer as it does not support arrow functions.
+
 var array = "-1 4 9 -5 10 1 2 -1".split(' '); 
 
 // Create a sorted array where the first item is the one which is the closest to 0.
